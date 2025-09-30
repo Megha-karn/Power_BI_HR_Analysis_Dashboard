@@ -10,8 +10,8 @@ This project features an **HR Analytics Dashboard** created using Power BI to vi
 * **Interactive Filters:** Ability to filter data by **Gender** and **Department** for granular analysis.
 
 ---
-
-## 🚀 Dashboard Screenshots
+![hr analysis](HR_Analysis)
+## 🚀 Dashboard
 
 ### 1. HR Analytics Dashboard Overview
 
